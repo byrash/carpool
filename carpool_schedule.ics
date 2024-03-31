@@ -6,7 +6,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20231211T064000
 DTEND;VALUE=DATE-TIME:20231211T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -21,7 +21,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20231212T064000
 DTEND;VALUE=DATE-TIME:20231212T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -36,7 +36,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20231213T064000
 DTEND;VALUE=DATE-TIME:20231213T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -51,7 +51,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20231214T064000
 DTEND;VALUE=DATE-TIME:20231214T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -66,7 +66,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20231215T064000
 DTEND;VALUE=DATE-TIME:20231215T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -81,7 +81,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20231218T064000
 DTEND;VALUE=DATE-TIME:20231218T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -96,7 +96,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20231219T064000
 DTEND;VALUE=DATE-TIME:20231219T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -111,7 +111,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20231220T064000
 DTEND;VALUE=DATE-TIME:20231220T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -126,7 +126,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240103T064000
 DTEND;VALUE=DATE-TIME:20240103T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -141,7 +141,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240104T064000
 DTEND;VALUE=DATE-TIME:20240104T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -156,7 +156,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240105T064000
 DTEND;VALUE=DATE-TIME:20240105T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -171,7 +171,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240108T064000
 DTEND;VALUE=DATE-TIME:20240108T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -186,7 +186,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240109T064000
 DTEND;VALUE=DATE-TIME:20240109T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -201,7 +201,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240110T064000
 DTEND;VALUE=DATE-TIME:20240110T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -216,7 +216,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240111T064000
 DTEND;VALUE=DATE-TIME:20240111T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -231,7 +231,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240112T064000
 DTEND;VALUE=DATE-TIME:20240112T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -246,7 +246,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240116T064000
 DTEND;VALUE=DATE-TIME:20240116T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -261,7 +261,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240117T064000
 DTEND;VALUE=DATE-TIME:20240117T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -276,7 +276,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240118T064000
 DTEND;VALUE=DATE-TIME:20240118T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -291,7 +291,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240119T064000
 DTEND;VALUE=DATE-TIME:20240119T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -306,7 +306,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240122T064000
 DTEND;VALUE=DATE-TIME:20240122T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -321,7 +321,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240123T064000
 DTEND;VALUE=DATE-TIME:20240123T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -336,7 +336,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240125T064000
 DTEND;VALUE=DATE-TIME:20240125T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -351,7 +351,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240126T064000
 DTEND;VALUE=DATE-TIME:20240126T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -366,7 +366,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240129T064000
 DTEND;VALUE=DATE-TIME:20240129T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -381,7 +381,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240130T064000
 DTEND;VALUE=DATE-TIME:20240130T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -396,7 +396,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240131T064000
 DTEND;VALUE=DATE-TIME:20240131T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -411,7 +411,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240201T064000
 DTEND;VALUE=DATE-TIME:20240201T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -426,7 +426,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240202T064000
 DTEND;VALUE=DATE-TIME:20240202T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -441,7 +441,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240205T064000
 DTEND;VALUE=DATE-TIME:20240205T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -456,7 +456,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240206T064000
 DTEND;VALUE=DATE-TIME:20240206T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -471,7 +471,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240207T064000
 DTEND;VALUE=DATE-TIME:20240207T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -486,7 +486,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240208T064000
 DTEND;VALUE=DATE-TIME:20240208T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -501,7 +501,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240209T064000
 DTEND;VALUE=DATE-TIME:20240209T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -516,7 +516,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240212T064000
 DTEND;VALUE=DATE-TIME:20240212T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -531,7 +531,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240213T064000
 DTEND;VALUE=DATE-TIME:20240213T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -546,7 +546,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240214T064000
 DTEND;VALUE=DATE-TIME:20240214T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -561,7 +561,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240215T064000
 DTEND;VALUE=DATE-TIME:20240215T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -576,7 +576,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240216T064000
 DTEND;VALUE=DATE-TIME:20240216T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -591,7 +591,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240221T064000
 DTEND;VALUE=DATE-TIME:20240221T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -606,7 +606,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240222T064000
 DTEND;VALUE=DATE-TIME:20240222T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -621,7 +621,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240223T064000
 DTEND;VALUE=DATE-TIME:20240223T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -636,7 +636,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240226T064000
 DTEND;VALUE=DATE-TIME:20240226T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -651,7 +651,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240227T064000
 DTEND;VALUE=DATE-TIME:20240227T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -666,7 +666,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240228T064000
 DTEND;VALUE=DATE-TIME:20240228T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -681,7 +681,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240229T064000
 DTEND;VALUE=DATE-TIME:20240229T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -696,7 +696,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240301T064000
 DTEND;VALUE=DATE-TIME:20240301T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -711,7 +711,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240304T064000
 DTEND;VALUE=DATE-TIME:20240304T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -726,7 +726,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240305T064000
 DTEND;VALUE=DATE-TIME:20240305T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -741,7 +741,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240306T064000
 DTEND;VALUE=DATE-TIME:20240306T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -756,7 +756,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240307T064000
 DTEND;VALUE=DATE-TIME:20240307T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -771,7 +771,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240308T064000
 DTEND;VALUE=DATE-TIME:20240308T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -786,7 +786,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240312T064000
 DTEND;VALUE=DATE-TIME:20240312T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -801,7 +801,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240313T064000
 DTEND;VALUE=DATE-TIME:20240313T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -816,7 +816,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240314T064000
 DTEND;VALUE=DATE-TIME:20240314T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -831,7 +831,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240315T064000
 DTEND;VALUE=DATE-TIME:20240315T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -846,7 +846,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240318T064000
 DTEND;VALUE=DATE-TIME:20240318T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -861,7 +861,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240319T064000
 DTEND;VALUE=DATE-TIME:20240319T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -876,7 +876,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240320T064000
 DTEND;VALUE=DATE-TIME:20240320T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -891,7 +891,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240321T064000
 DTEND;VALUE=DATE-TIME:20240321T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -906,7 +906,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240322T064000
 DTEND;VALUE=DATE-TIME:20240322T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -921,7 +921,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240401T064000
 DTEND;VALUE=DATE-TIME:20240401T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -936,7 +936,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240402T064000
 DTEND;VALUE=DATE-TIME:20240402T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -951,7 +951,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240403T064000
 DTEND;VALUE=DATE-TIME:20240403T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -966,7 +966,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240404T064000
 DTEND;VALUE=DATE-TIME:20240404T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -981,7 +981,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240405T064000
 DTEND;VALUE=DATE-TIME:20240405T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -996,7 +996,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240408T064000
 DTEND;VALUE=DATE-TIME:20240408T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1011,7 +1011,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240409T064000
 DTEND;VALUE=DATE-TIME:20240409T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1026,7 +1026,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240411T064000
 DTEND;VALUE=DATE-TIME:20240411T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1041,7 +1041,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240412T064000
 DTEND;VALUE=DATE-TIME:20240412T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1056,7 +1056,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240415T064000
 DTEND;VALUE=DATE-TIME:20240415T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1071,7 +1071,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240416T064000
 DTEND;VALUE=DATE-TIME:20240416T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1086,7 +1086,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240417T064000
 DTEND;VALUE=DATE-TIME:20240417T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1101,7 +1101,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240418T064000
 DTEND;VALUE=DATE-TIME:20240418T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1116,7 +1116,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240419T064000
 DTEND;VALUE=DATE-TIME:20240419T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1131,7 +1131,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240422T064000
 DTEND;VALUE=DATE-TIME:20240422T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1146,7 +1146,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240423T064000
 DTEND;VALUE=DATE-TIME:20240423T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1161,7 +1161,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240424T064000
 DTEND;VALUE=DATE-TIME:20240424T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1176,7 +1176,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240425T064000
 DTEND;VALUE=DATE-TIME:20240425T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1191,7 +1191,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240426T064000
 DTEND;VALUE=DATE-TIME:20240426T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1206,7 +1206,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240430T064000
 DTEND;VALUE=DATE-TIME:20240430T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1221,7 +1221,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240501T064000
 DTEND;VALUE=DATE-TIME:20240501T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1236,7 +1236,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240502T064000
 DTEND;VALUE=DATE-TIME:20240502T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1251,7 +1251,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240503T064000
 DTEND;VALUE=DATE-TIME:20240503T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1266,7 +1266,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240506T064000
 DTEND;VALUE=DATE-TIME:20240506T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1281,7 +1281,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240507T064000
 DTEND;VALUE=DATE-TIME:20240507T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1296,7 +1296,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240508T064000
 DTEND;VALUE=DATE-TIME:20240508T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1311,7 +1311,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240509T064000
 DTEND;VALUE=DATE-TIME:20240509T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1326,7 +1326,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240510T064000
 DTEND;VALUE=DATE-TIME:20240510T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1341,7 +1341,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240513T064000
 DTEND;VALUE=DATE-TIME:20240513T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1356,7 +1356,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240514T064000
 DTEND;VALUE=DATE-TIME:20240514T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1371,7 +1371,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240515T064000
 DTEND;VALUE=DATE-TIME:20240515T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1386,7 +1386,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240516T064000
 DTEND;VALUE=DATE-TIME:20240516T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1401,7 +1401,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240517T064000
 DTEND;VALUE=DATE-TIME:20240517T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1416,7 +1416,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240520T064000
 DTEND;VALUE=DATE-TIME:20240520T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1431,7 +1431,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240521T064000
 DTEND;VALUE=DATE-TIME:20240521T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1446,7 +1446,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240522T064000
 DTEND;VALUE=DATE-TIME:20240522T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1461,7 +1461,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240523T064000
 DTEND;VALUE=DATE-TIME:20240523T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1476,7 +1476,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240524T064000
 DTEND;VALUE=DATE-TIME:20240524T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1491,7 +1491,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240528T064000
 DTEND;VALUE=DATE-TIME:20240528T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1506,7 +1506,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240529T064000
 DTEND;VALUE=DATE-TIME:20240529T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1521,7 +1521,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240530T064000
 DTEND;VALUE=DATE-TIME:20240530T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1536,7 +1536,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240531T064000
 DTEND;VALUE=DATE-TIME:20240531T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1551,7 +1551,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240603T064000
 DTEND;VALUE=DATE-TIME:20240603T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1566,7 +1566,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240604T064000
 DTEND;VALUE=DATE-TIME:20240604T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1581,7 +1581,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240605T064000
 DTEND;VALUE=DATE-TIME:20240605T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1596,7 +1596,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240606T064000
 DTEND;VALUE=DATE-TIME:20240606T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1611,7 +1611,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240607T064000
 DTEND;VALUE=DATE-TIME:20240607T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1626,7 +1626,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240610T064000
 DTEND;VALUE=DATE-TIME:20240610T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1641,7 +1641,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240611T064000
 DTEND;VALUE=DATE-TIME:20240611T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1656,7 +1656,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240612T064000
 DTEND;VALUE=DATE-TIME:20240612T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1671,7 +1671,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240617T064000
 DTEND;VALUE=DATE-TIME:20240617T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1686,7 +1686,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240618T064000
 DTEND;VALUE=DATE-TIME:20240618T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1701,7 +1701,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240619T064000
 DTEND;VALUE=DATE-TIME:20240619T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1716,7 +1716,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240620T064000
 DTEND;VALUE=DATE-TIME:20240620T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1731,7 +1731,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240621T064000
 DTEND;VALUE=DATE-TIME:20240621T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1746,7 +1746,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240624T064000
 DTEND;VALUE=DATE-TIME:20240624T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1761,7 +1761,7 @@ SUMMARY:Carpool: Shivaji
 DTSTART;VALUE=DATE-TIME:20240625T064000
 DTEND;VALUE=DATE-TIME:20240625T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Shivaji
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1776,7 +1776,7 @@ SUMMARY:Carpool: Yaping
 DTSTART;VALUE=DATE-TIME:20240626T064000
 DTEND;VALUE=DATE-TIME:20240626T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Yaping
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1791,7 +1791,7 @@ SUMMARY:Carpool: Sandesh
 DTSTART;VALUE=DATE-TIME:20240627T064000
 DTEND;VALUE=DATE-TIME:20240627T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Sandesh
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1806,7 +1806,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240628T064000
 DTEND;VALUE=DATE-TIME:20240628T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1
@@ -1821,7 +1821,7 @@ SUMMARY:Carpool: Bhavani
 DTSTART;VALUE=DATE-TIME:20240701T064000
 DTEND;VALUE=DATE-TIME:20240701T064500
 DESCRIPTION:Carnage MS Carpool Scheduled Driver
-LOCATION:Cary\, USA
+LOCATION:6903 Carpenter Fire Station Rd\, Cary\, NC 27519
 NAME:Carpool: Bhavani
 ORGANIZER;NAME="Shivaji Byrapaneni":MAILTO:shivaji.byrapaneni@gmail.com
 PRIORITY:1

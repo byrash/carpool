@@ -219,7 +219,7 @@ if __name__ == "__main__":
         # Add parameters of the event
         organizer.params['name'] = vText('Shivaji Byrapaneni')
         event['organizer'] = organizer
-        event['location'] = vText('Cary, USA')
+        event['location'] = vText('6903 Carpenter Fire Station Rd, Cary, NC 27519')
         event.add('priority', 1)
 
         alarm = Alarm()
