@@ -200,7 +200,7 @@ if __name__ == "__main__":
     eastern = timezone('US/Eastern')
     for date, driver in carpool.schedule.items():
         # print(date.strftime("%Y-%m-%d"), driver)
-        start_time = date.replace(hour=6, minute=40)
+        start_time = date.replace(hour=6, minute=45)
         end_time = start_time + timedelta(minutes=5)
 
         event = Event()
@@ -219,7 +219,8 @@ if __name__ == "__main__":
         # Add parameters of the event
         organizer.params['name'] = vText('Shivaji Byrapaneni')
         event['organizer'] = organizer
-        event['location'] = vText('6903 Carpenter Fire Station Rd, Cary, NC 27519')
+        event['location'] = vText(
+            '6903 Carpenter Fire Station Rd, Cary, NC 27519')
         event.add('priority', 1)
 
         alarm = Alarm()
