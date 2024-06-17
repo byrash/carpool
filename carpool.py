@@ -48,25 +48,28 @@ days_to_drivers = {
     "Sunday": "~~~~~~~~~~~"
 }
 
-holiday_event_summary = ["Teacher Workday",
-                         "Holiday- No School", "Spring Break", "Winter Break", "Vacation Day- No School"]
+holiday_event_summary = ["Trad - Teacher Workday", "Trad - Holiday"
+                         "Trad - Thanksgiving Break", "Trad - Winter Break", "Trad - Spring Break"]
 
 weekdays = ["Monday", "Tuesday", "Wednesday",
             "Thursday", "Friday", "Saturday", "Sunday"]
 
 ignored_weekdays = ["Friday", "Saturday", "Sunday"]
 
+last_day = "Trad - End of Nine Weeks and last day of classes"
+dt_format = "%Y-%m-%dT%H:%M:%S"
+
 
 class CarpoolSchedule:
     def __init__(self, ical_file_path):
         self.missed_roaster = Queue()
         self.regular_friday_roaster = Queue()
-        # self.holidays = self.read_holidays_from_ical(ical_file_path)
-        self.holidays = self.read_holidays_from_api()
+        self.holidays = self.read_holidays_from_ical(ical_file_path)
+        # self.holidays = self.read_holidays_from_api()
         self.assign_regular_friday()
         self.schedule = {}
-        self.start_from_date = datetime(2023, 12, 11)
-        self.last_day_of_school = datetime(2024, 7, 1)
+        self.start_from_date = datetime(2024, 8, 26)
+        self.last_day_of_school = datetime(2025, 7, 1)
         self.generate_roaster_for_365_days = 365
 
     def assign_roaster(self):
@@ -76,41 +79,23 @@ class CarpoolSchedule:
             day = self.get_weekday(current_date)
 
             if current_date > self.last_day_of_school:
-                # self.schedule[current_date] = "Beyond Last Day Of School"
                 continue
-
-            if current_date in self.holidays:
-                # self.schedule[current_date] = "Holiday"
+            if current_date.strftime("%Y-%m-%d") in self.holidays:
                 if day not in ignored_weekdays:
-                    #     regular_friday_roaster_driver = self.regular_friday_roaster.dequeue()
-                    #     print(current_date, 'Friday --> Missed by ',
-                    #           regular_friday_roaster_driver)
-                    #     self.missed_roaster.enqueue(regular_friday_roaster_driver)
-                    # else:
-                    # print(current_date, day, ' --> Missed by ',
-                    #   days_to_drivers[day])
-                    self.missed_roaster.enqueue(days_to_drivers[day])
-
+                    self.missed_roaster.enqueue(
+                        days_to_drivers[day]+' for '+current_date.strftime("%Y-%m-%d"))
                 continue
-            # else:
-                # print(current_date, "Not in Holidays")
 
             if day == "Sunday" or day == "Saturday":
-                # self.schedule[current_date] = "~~~~~~~~~~~~"
                 continue
             if day == "Friday":
                 if self.missed_roaster.size() > 0:
                     self.schedule[current_date] = self.missed_roaster.dequeue()
-                    # print(current_date, day, '-->  ',
-                    #       self.missed_roaster.dequeue())
                 else:
                     self.schedule[current_date] = self.regular_friday_roaster.dequeue(
                     )
-                    # print(current_date, day, '-->  ',
-                    #       self.regular_friday_roaster.dequeue())
             else:
                 self.schedule[current_date] = days_to_drivers[day]
-                # print(current_date, day, '-->  ', self.get_value_by_slice(day))
 
     def get_weekday(self, calendar_date):
         # Parse the calendar date string into a datetime object
@@ -138,7 +123,7 @@ class CarpoolSchedule:
         # print(response.text)
         f = open('schedule.json', 'r')
         events = json.load(f)
-        dt_format = "%Y-%m-%dT%H:%M:%S"
+
         for event in events:
             title = event['Title']
             if title == "Last Day of School for Students":
@@ -147,8 +132,6 @@ class CarpoolSchedule:
             if title in holiday_event_summary or "Holiday" in title:
                 start = datetime.strptime(event['Start'], dt_format)
                 end = datetime.strptime(event['End'], dt_format)
-                # diff = end-start
-                # print(title, start, end, diff.days)
                 while start < end:
                     holidays.append(start)
                     start += timedelta(days=1)
@@ -164,36 +147,27 @@ class CarpoolSchedule:
         cal = icalendar.Calendar.from_ical(cal_data)
 
         for event in cal.walk('VEVENT'):
-            summary = event.get('summary')
-            # print(event.get('DTSTART').dt, summary)
-            if summary in holiday_event_summary:
-                start_date = event.get('DTSTART').dt
-                # holidays.append(start_date)
-                if event.get('DTEND') is not None:
-                    end_date = event.get('DTEND').dt
-                    while start_date < end_date:
-                        holidays.append(start_date.strftime("%Y-%m-%d"))
-                        start_date += timedelta(days=1)
-                elif event.get('DURATION') is not None:
-                    duration = vDDDTypes.from_ical(event.get('DURATION'))
-                    end_date = start_date + duration if duration else None
-                    while start_date < end_date:
-                        holidays.append(start_date.strftime("%Y-%m-%d"))
-                        start_date += timedelta(days=1)
-            elif summary == "Last Day of School for Students":
-                self.last_day_of_school = start_date = event.get(
+            title = event['SUMMARY']
+            if title == last_day:
+                self.last_day_of_school = event.get(
                     'DTSTART').dt.strftime("%Y-%m-%d")
+            if title in holiday_event_summary or "Holiday" in title:
+                start = event.get('DTSTART').dt
+                if start not in holidays:
+                    holidays.append(start.strftime("%Y-%m-%d"))
+                end = event.get('DTEND').dt
+                if end not in holidays:
+                    holidays.append(end.strftime("%Y-%m-%d"))
 
         return holidays
 
 
 if __name__ == "__main__":
     # Replace with the path to your .ics file
-    ical_file_path = 'icalfeed.ics'
+    ical_file_path = 'basic.ics'
     carpool = CarpoolSchedule(ical_file_path)
     # carpool.read_holidays_from_api()
     carpool.assign_roaster()
-    # print()
     cal = Calendar()
     cal.add('prodid', '-//Shivaji Car Pool//byrapaneni.com//')
     cal.add('version', '2.0')
@@ -207,10 +181,6 @@ if __name__ == "__main__":
         event.add('name', f"Carpool: {driver}")
         event.add('summary', f"Carpool: {driver}")
         event.add('description', 'Carnage MS Carpool Scheduled Driver')
-        # event.add('dtstart', datetime(
-        #     2022, 1, 25, 8, 0, 0, tzinfo=eastern.zone))
-        # event.add('dtend', datetime(
-        #     2022, 1, 25, 10, 0, 0, tzinfo=eastern.zone))
         event.add('dtstart', start_time)
         event.add('dtend', end_time)
 
@@ -230,14 +200,6 @@ if __name__ == "__main__":
         event.add_component(alarm)
         cal.add_component(event)
 
-        # event.name = f"Carpool: {driver}"
-        # event.begin = datetime.combine(start_time, start_time.min.time())
-        # event.end = datetime.combine(end_time, end_time.max.time())
-        # event.alarms = [DisplayAlarm(trigger=timedelta(minutes=-10))]
-        # cal.events.add(event)
-        # print(driver)
-    # with open("carpool_schedule.ics", "w") as f:
-        # f.write(cal.to_ical())
     f = open('carpool_schedule.ics', 'wb')
     f.write(cal.to_ical())
     f.close()
