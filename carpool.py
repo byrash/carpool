@@ -152,13 +152,14 @@ class CarpoolSchedule:
                 self.last_day_of_school = event.get(
                     'DTSTART').dt.strftime("%Y-%m-%d")
             if title in holiday_event_summary or "Holiday" in title:
+                # print(
+                    # f" {title} - {event.get('DTSTART').dt} - {event.get('DTEND').dt} - {(event.get('DTEND').dt-event.get('DTSTART').dt).days}")
                 start = event.get('DTSTART').dt
                 if start not in holidays:
                     holidays.append(start.strftime("%Y-%m-%d"))
-                end = event.get('DTEND').dt
-                if end not in holidays:
-                    holidays.append(end.strftime("%Y-%m-%d"))
-
+                # end = event.get('DTEND').dt
+                # if (end-start).days > 1 and end not in holidays:
+                #     holidays.append(end.strftime("%Y-%m-%d"))
         return holidays
 
 
