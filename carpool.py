@@ -48,7 +48,7 @@ days_to_drivers = {
     "Sunday": "~~~~~~~~~~~"
 }
 
-holiday_event_summary = ["Trad - Teacher Workday", "Trad - Holiday"
+holiday_event_summary = ["Trad - Teacher Workday", "Trad - Holiday",
                          "Trad - Thanksgiving Break", "Trad - Winter Break", "Trad - Spring Break"]
 
 weekdays = ["Monday", "Tuesday", "Wednesday",
@@ -152,8 +152,8 @@ class CarpoolSchedule:
                 self.last_day_of_school = event.get(
                     'DTSTART').dt.strftime("%Y-%m-%d")
             if title in holiday_event_summary or "Holiday" in title:
-                # print(
-                    # f" {title} - {event.get('DTSTART').dt} - {event.get('DTEND').dt} - {(event.get('DTEND').dt-event.get('DTSTART').dt).days}")
+                print(
+                    f" {title} - {event.get('DTSTART').dt} - {event.get('DTEND').dt} - {(event.get('DTEND').dt-event.get('DTSTART').dt).days}")
                 start = event.get('DTSTART').dt
                 if start not in holidays:
                     holidays.append(start.strftime("%Y-%m-%d"))
